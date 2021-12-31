@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : Nuestros Servicios
+  about_item :
+  - icon : ti-layout-column4-alt # themify icon pack : https://themify.me/themify-icons
+    title : Venta de Neumáticos
+    content : Ruedas de turismo, furgonetas y todoterrenos. Neumáticos nuevos y de ocasión.   
+
+  - icon : ti-face-smile # themify icon pack : https://themify.me/themify-icons
+    title : Servicio Oficial Vredestein
+    content : Todas marcas y dimensiones. Servicio oficial Vredestein.
+
+  - icon : ti-timer # themify icon pack : https://themify.me/themify-icons
+    title : Reparación de Pinchazos
+    content : Reparación inmediata de pinchazos y equlibrado de ruedas. 

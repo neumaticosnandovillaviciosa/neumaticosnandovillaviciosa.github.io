@@ -1,0 +1,24 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contacto
+  subtitle : Atención inmediata 
+  content : Visítanos de lunes a viernes de 09:30 a 13:00 y de 15:00 a 19:00.
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Calle Gutiérrez de Hevia Nº8, Villaviciosa, 33300, Asturias"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Teléfono: 985 893 706"
+      
+  # Contact form
+  contact_form:
+    enable : false
+    form_action : "#" #contact form works with https://formspree.io
+    name : "Your Name"
+    email : "Your Email"
+    subject : "Subject"
+    message : "Message"
+    submit : "Submit"

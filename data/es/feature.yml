@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/taller.jpg
+  image_webp : images/about/taller.webp
+  title : Taller de Neumáticos en Villaviciosa
+  content : "Venta, montaje, reparación y equilibrado de neumáticos en el acto."
+  feature_item : 
+      # feature item loop
+    - title : Turismo, furgonetas y 4x4
+      icon : ti-truck # themify icon pack : https://themify.me/themify-icons
+      content : Ruedas para todo tipo de coches. Cualquier medida, incluyendo furgonetas, SUVs y todoterreno. 
+      
+      # feature item loop
+    - title : Servicio oficial Vredestein
+      icon : ti-check # themify icon pack : https://themify.me/themify-icons
+      content : Taller distribuidor oficial de neumáticos Vedrestein.
+
+      # feature item loop
+    - title : Neumáticos nuevos y de ocasión
+      icon : ti-layout-column4-alt # themify icon pack : https://themify.me/themify-icons
+      content : Todas las marcas y dimensiones, adecuado a las prestaciones deseadas.
+      
+      # feature item loop
+    - title : Reparación de pinchazos
+      icon : ti-timer # themify icon pack : https://themify.me/themify-icons
+      content : Reparación de neumáticos en el acto sin cita previa.
