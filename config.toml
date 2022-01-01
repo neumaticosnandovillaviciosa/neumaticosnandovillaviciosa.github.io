@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://neumaticosnandovillaviciosa.com"
+baseURL = "https://neumaticosnandovillaviciosa.github.io"
 title = "Neumaticos Nando - Villaviciosa"
 theme = "neumaticosnando"
 # post pagination
