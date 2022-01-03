@@ -5,7 +5,7 @@
     <div id="map" class="map"></div>
     <script>
       var baseLayer= new ol.layer.Tile({
-        source: new ol.source.XYZ({
+        source: new ol.source.OSM({
           url: 'https://tile.openstreetmap.org/${z}/${x}/${y}.png'
         }) 
       });
