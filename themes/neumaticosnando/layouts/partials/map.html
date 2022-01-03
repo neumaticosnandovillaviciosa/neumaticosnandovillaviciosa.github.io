@@ -5,8 +5,8 @@
     <div id="map" class="map"></div>
     <script>
       var baseLayer= new ol.layer.Tile({
-        source: new ol.source.OSM({
-          url: 'https://a.tile.openstreetmap.org/{z}/{x}/{y}.png'
+        source: new ol.source.XYZ({
+          url: 'https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}.png'
         }) 
       });
 	  var markers = new ol.layer.Vector({
@@ -14,15 +14,29 @@
   		style: new ol.style.Style({
     	  image: new ol.style.Icon({
       		anchor: [0.5, 1],
-			scale: 0.4,
+    			scale: 0.4,
       		src: "{{ .map_marker | absURL }}"
     		})
   		  })
 	  });
-      var marker = new ol.Feature(new ol.geom.Point(ol.proj.fromLonLat([{{.map_longitude}},{{.map_latitude}}])));
-	  markers.getSource().addFeature(marker);	        
+    var marker = new ol.Feature(new ol.geom.Point(ol.proj.fromLonLat([{{.map_longitude}},{{.map_latitude}}])));
+    markers.getSource().addFeature(marker);	
+
+    var markersRef = new ol.layer.Vector({
+  		source: new ol.source.Vector(),
+  		style: new ol.style.Style({
+    	  image: new ol.style.Icon({
+      		anchor: [0.5, 1],
+    			scale: 0.2,
+      		src: "{{ .map_marker_ref | absURL }}"
+    		})
+  		  })
+	  });
+    var markerRef = new ol.Feature(new ol.geom.Point(ol.proj.fromLonLat([{{.map_longitude_ref}},{{.map_latitude_ref}}])));
+	  markersRef.getSource().addFeature(markerRef);	        
+    
 	  var map = new ol.Map({ 
-        layers: [baseLayer,markers], 
+        layers: [baseLayer,markers,markersRef], 
         target: 'map',
         controls: ol.control.defaults({ 
           attributionOptions: ({
