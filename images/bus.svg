@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1026"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="bus.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1028"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="0.43235153"
+     inkscape:cx="-392.0421"
+     inkscape:cy="10.408197"
+     inkscape:window-width="1312"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1023" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1109"
+       style="fill:#000000;stroke-width:12.403;stroke-linecap:round;stroke-linejoin:bevel"
+       d="M 28.345703 0 A 28.346457 28.346457 0 0 0 0 28.347656 L 0 283.46484 L 92.691406 283.46484 A 66.141727 66.141727 0 0 1 158.83398 217.32227 A 66.141727 66.141727 0 0 1 224.97656 283.46484 L 529.13477 283.46484 A 66.141726 66.141726 0 0 1 595.27539 217.32227 A 66.141726 66.141726 0 0 1 661.41797 283.46484 L 755.90625 283.46484 L 755.90625 28.345703 A 28.346457 28.346457 0 0 0 727.55859 0 L 28.345703 0 z M 56.693359 54.210938 L 245.66992 54.210938 L 245.66992 132.82422 L 56.693359 132.82422 L 56.693359 54.210938 z M 283.83594 56.693359 L 472.8125 56.693359 L 472.8125 135.30664 L 283.83594 135.30664 L 283.83594 56.693359 z M 510.23633 56.693359 L 699.21289 56.693359 L 699.21289 135.30664 L 510.23633 135.30664 L 510.23633 56.693359 z "
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/Users/espinr/Documents/git/pbesteu/neumaticosnandovillaviciosa.github.io/static/images/bus.png"
+       inkscape:export-xdpi="25.4"
+       inkscape:export-ydpi="25.4" />
+    <circle
+       style="fill:#000000;stroke-width:2.48563;stroke-linecap:round;stroke-linejoin:bevel"
+       id="path1133"
+       cx="42.5"
+       cy="75"
+       r="12.5"
+       inkscape:export-filename="/Users/espinr/Documents/git/pbesteu/neumaticosnandovillaviciosa.github.io/static/images/bus.png"
+       inkscape:export-xdpi="25.4"
+       inkscape:export-ydpi="25.4" />
+    <circle
+       style="fill:#000000;stroke-width:2.48563;stroke-linecap:round;stroke-linejoin:bevel"
+       id="path1133-3"
+       cx="157.5"
+       cy="75"
+       r="12.5"
+       inkscape:export-filename="/Users/espinr/Documents/git/pbesteu/neumaticosnandovillaviciosa.github.io/static/images/bus.png"
+       inkscape:export-xdpi="25.4"
+       inkscape:export-ydpi="25.4" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.8008px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32579"
+       x="-2.2398107"
+       y="110.18322"
+       id="text5110"
+       transform="scale(0.94076883,1.0629604)"
+       inkscape:export-filename="/Users/espinr/Documents/git/pbesteu/neumaticosnandovillaviciosa.github.io/static/images/bus.png"
+       inkscape:export-xdpi="25.4"
+       inkscape:export-ydpi="25.4"><tspan
+         sodipodi:role="line"
+         id="tspan5108"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.8008px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.32579"
+         x="-2.2398107"
+         y="110.18322">ESTACIÓN  BUS</tspan></text>
+  </g>
+</svg>
