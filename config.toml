@@ -92,4 +92,4 @@ languageCode = "es"
 contentDir = "content/spanish"
 weight = 2
 home = "Portada"
-copyright = "Copyright &copy; 2022 Diseñado por [PBEST](https://pbest.eu)"
+copyright = "Copyright &copy; 2022 Diseñado por [PBEST](https://pbest.eu), based on [Meghna Hugo](https://github.com/themefisher/meghna-hugo)."
