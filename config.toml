@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "neumaticosvillaviciosanando.com"
+baseURL = "https://neumaticosvillaviciosanando.com"
 title = "Neumáticos Nando - Villaviciosa"
 theme = "neumaticosnando"
 # post pagination
