@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Neumáticos Nando - Villaviciosa"
-  content : "Venta, montaje, equilibrado de neumáticos y reparación de pinchazos"
+  content : "Venta, montaje, equilibrado de neumáticos y reparación de pinchazos en Villaviciosa (Asturias)"
   button:
     enable : true
     label : "Vea Todos Nuestros Servicios"
