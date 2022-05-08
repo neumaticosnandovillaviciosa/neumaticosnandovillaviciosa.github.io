@@ -84,6 +84,10 @@ map_marker = "images/marker.png"
 #map_longitude_ref = "-5.436"
 #map_marker_ref = "images/bus-marker.png"
 
+# matomo
+[params.matomo]
+enable = false
+id_site = 2
 
 ################################ Spanish Language ########################
 [Languages.es]
