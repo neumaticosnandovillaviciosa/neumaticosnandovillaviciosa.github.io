@@ -3,7 +3,7 @@ contact:
   enable : true
   title : Contacto
   subtitle : Atención inmediata 
-  content : Visítanos de lunes a viernes de 09:30 a 13:00 y de 15:00 a 19:00.
+  content : Visítanos de lunes a viernes de 09:30 a 13:00 y de 15:30 a 19:00.
 
   # Contact details
   contact_list:
