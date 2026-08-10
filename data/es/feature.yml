@@ -4,7 +4,7 @@ feature:
   image : images/about/taller.jpg
   image_webp : images/about/taller.webp
   title : Taller de Neumáticos en Villaviciosa
-  content : "Venta, montaje, reparación y equilibrado de neumáticos en el acto."
+  content : "Venta, montaje, reparación y equilibrado de neumáticos."
   feature_item : 
       # feature item loop
     - title : Turismo, furgonetas y 4x4
@@ -24,4 +24,4 @@ feature:
       # feature item loop
     - title : Reparación de pinchazos
       icon : ti-timer # themify icon pack : https://themify.me/themify-icons
-      content : Reparación de neumáticos en el acto sin cita previa.
+      content : Reparación de neumáticos.
